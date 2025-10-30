@@ -1,6 +1,4 @@
-# EventDev
-# 🚀 Projeto [Nome do Seu Projeto]
-
+# 🚀 Projeto EventDev
 ![Badge de Status do Projeto](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 
 Projeto para organização de eventos das comunidades do Ceará, com objetivo de ser um calendario de eventos em uma plataforma centralizada para maior aderencia de iniciantes na área e divulgamento de eventos, que hoje é uma dificuldade para muitas comunidades.
